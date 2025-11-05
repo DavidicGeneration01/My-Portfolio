@@ -9,15 +9,12 @@ const About = ({ ...props }: React.HTMLAttributes<HTMLDivElement>) => {
           <div className='space-y-6'>
             <h2 className='text-4xl font-bold mb-4'>About Neto</h2>
             <p className='text-xl text-gray-600 dark:text-gray-400 mb-6'>
-              Neto is a modern React developer toolkit designed to streamline the development of
-              high-quality web applications. With a focus on performance, accessibility, and user
-              experience, Neto provides everything you need to build exceptional products on the
-              web.
+              David is a next-generation React toolkit that helps developers ship faster, smarter, and better.
+With built-in performance optimization, accessibility tools, and UI-first workflows, David lets you focus on creating experiences users love; without the friction.
             </p>
             <p className='text-xl text-gray-600 dark:text-gray-400 mb-6'>
-              Whether you're building a small project or a large-scale application, Neto has the
-              tools and features to help you succeed. From responsive design to state management,
-              Neto is your go-to solution for modern web development.
+             Whether you're crafting your next side project or scaling a production-ready app, Neto gives you everything you need to build fast and ship faster.
+With built-in tools for responsive design, smooth state management, and high performance, Neto is your all-in-one solution for modern web development.
             </p>
             <div className='flex gap-4'>
               <a
